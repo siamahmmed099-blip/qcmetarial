@@ -1,0 +1,128 @@
+[
+  {
+    "category": "OAI",
+    "code": "OAI0274",
+    "name": "Aceclofenac",
+    "qc": "34",
+    "retention": "68",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0596",
+    "name": "Acetylcysteine",
+    "qc": "9.5",
+    "retention": "19",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0683",
+    "name": "Acitretin",
+    "qc": "5.5",
+    "retention": "11",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "Light sensitive (Store in an inert gas at 2°C to 8°C)"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0517",
+    "name": "Acyclovir Micronized",
+    "qc": "30.5",
+    "retention": "61",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0476",
+    "name": "Adapalene",
+    "qc": "3",
+    "retention": "6",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0632",
+    "name": "Adenosine",
+    "qc": "7",
+    "retention": "14",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0001",
+    "name": "Albendazole",
+    "qc": "6.8",
+    "retention": "13.6",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0511",
+    "name": "Almitrine Bismesylate",
+    "qc": "35",
+    "retention": "70",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0561",
+    "name": "Almotriptan Malate",
+    "qc": "0.3",
+    "retention": "0.6",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0627",
+    "name": "Alogliptin Benzoate INN",
+    "qc": "5",
+    "retention": "10",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0218",
+    "name": "Alprazolam",
+    "qc": "8",
+    "retention": "16",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0543",
+    "name": "Aluminium Chloride Hexahydrate",
+    "qc": "27",
+    "retention": "54",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0522",
+    "name": "Aluminium Hydroxide , Magnesium Hydroxide Barcroft TM AHMH 138",
+    "qc": "550",
+    "retention": "1100",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0434",
+    "name": "Alverine Citrate",
+    "qc": "6.7",
+    "retention": "13.4",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  }
+]
